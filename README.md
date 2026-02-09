@@ -1,5 +1,5 @@
 # New Project
 
 This project was created from local system.
-Created by Sanket Dongardive
+Created by Sanket Dongardive.
 
