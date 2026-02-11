@@ -4,32 +4,6 @@ Customer Segmentation using Clustering
 
 This project performs Customer Segmentation using clustering techniques to group customers based on purchasing behavior, demographics, and engagement patterns. The segmentation helps businesses target customers effectively and improve marketing strategies.
 
-# Project Structure
-
-smartcart-clustering/
-├── data
-│   ├── raw                  # Original dataset
-│   ├── processed            # Cleaned & engineered data
-│   └── results              # Clustering outputs
-│
-├── notebooks
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_clustering.ipynb
-│   └── 04_analysis.ipynb
-│
-├── src
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── clustering.py
-│   ├── visualization.py
-│   └── evaluation.py
-│
-├── results
-    ├── figures              # Generated plots
-    └── reports              # Analysis reports
-
-
 # Objectives
 
 Clean and preprocess customer data
