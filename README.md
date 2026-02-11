@@ -9,9 +9,9 @@ This project performs Customer Segmentation using clustering techniques to group
 smartcart-clustering/
 │
 ├── data/
-│   ├── raw/                    # Original dataset
-│   ├── processed/              # Cleaned and engineered data
-│   └── results/                # Clustering outputs
+│   ├── raw/                     # Original dataset
+│   ├── processed/               # Cleaned & engineered data
+│   └── results/                 # Clustering outputs
 │
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
@@ -20,15 +20,15 @@ smartcart-clustering/
 │   └── 04_analysis.ipynb
 │
 ├── src/
-│   ├── preprocessing.py        # Data preprocessing functions
-│   ├── feature_engineering.py  # Feature creation
-│   ├── clustering.py           # Clustering algorithms
-│   ├── visualization.py        # Plotting functions
-│   └── evaluation.py           # Model evaluation metrics
+│   ├── preprocessing.py         # Data preprocessing functions
+│   ├── feature_engineering.py   # Feature creation
+│   ├── clustering.py            # Clustering implementation
+│   ├── visualization.py         # Plotting functions
+│   └── evaluation.py            # Model evaluation metrics
 │
 ├── results/
-│   ├── figures/                # Plots and visualizations
-│   └── reports/                # Analysis reports
+│   ├── figures/                 # Generated plots
+│   └── reports/                 # Analysis reports
 
 # Objectives
 
