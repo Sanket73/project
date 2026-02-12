@@ -18,7 +18,7 @@ This project performs Customer Segmentation using clustering techniques to group
 
 # Workflow
 
-1. Data Preprocessing
+### 1. Data Preprocessing
 
 * Handled missing values.
 
@@ -26,13 +26,13 @@ This project performs Customer Segmentation using clustering techniques to group
 
 * Cleaned dataset.
 
-2. Feature Engineering
+### 2. Feature Engineering
 
 * Created derived features.
 
 * Dropped unnecessary attributes.
 
-3. Visualization & Analysis
+### 3. Visualization & Analysis
 
 * Generated correlation heatmap.
 
@@ -40,15 +40,15 @@ This project performs Customer Segmentation using clustering techniques to group
 
 * Studied customer behavior.
 
-4. Encoding
+### 4. Encoding
 
 * Converted categorical data into numeric format.
 
-5. Scaling
+### 5. Scaling
 
 * Normalized features to improve clustering performance.
 
-6. Optimal K Selection
+### 6. Optimal K Selection
 
 Used:
 
@@ -56,7 +56,7 @@ Used:
 
 * Silhouette Score
 
-7. Clustering
+### 7. Clustering
 
 * Applied K-Means clustering to segment customers.
 
