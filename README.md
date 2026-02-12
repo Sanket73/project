@@ -6,59 +6,59 @@ This project performs Customer Segmentation using clustering techniques to group
 
 # Objectives
 
-Clean and preprocess customer data
+* Clean and preprocess customer data.
 
-Engineer useful features
+* Engineer useful features.
 
-Perform clustering to group customers
+* Perform clustering to group customers.
 
-Evaluate optimal number of clusters
+* Evaluate optimal number of clusters.
 
-Analyze and characterize each customer segment
+* Analyze and characterize each customer segment.
 
 # Workflow
 
 1. Data Preprocessing
 
-Handled missing values
+* Handled missing values.
 
-Removed irrelevant columns
+* Removed irrelevant columns.
 
-Cleaned dataset
+* Cleaned dataset.
 
 2. Feature Engineering
 
-Created derived features
+* Created derived features.
 
-Dropped unnecessary attributes
+* Dropped unnecessary attributes.
 
 3. Visualization & Analysis
 
-Generated correlation heatmap
+* Generated correlation heatmap.
 
-Explored distributions
+* Explored distributions.
 
-Studied customer behavior
+* Studied customer behavior.
 
 4. Encoding
 
-Converted categorical data into numeric format.
+* Converted categorical data into numeric format.
 
 5. Scaling
 
-Normalized features to improve clustering performance.
+* Normalized features to improve clustering performance.
 
 6. Optimal K Selection
 
 Used:
 
-Elbow Method
+* Elbow Method
 
-Silhouette Score
+* Silhouette Score
 
 7. Clustering
 
-Applied K-Means clustering to segment customers.
+* Applied K-Means clustering to segment customers.
 
 8. Cluster Characterization
 
@@ -84,7 +84,7 @@ Applied K-Means clustering to segment customers.
 
 ## Cluster 0 — Low Income Regular Buyers
 
-Moderate store purchases
+> Moderate store purchases
 
 Low total spending
 
