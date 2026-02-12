@@ -84,41 +84,41 @@ Used:
 
 ## Cluster 0 — Low Income Regular Buyers
 
-> Moderate store purchases
+* Moderate store purchases
 
-Low total spending
+* Low total spending
 
-Frequent web visits
+* Frequent web visits
 
-Budget-conscious customers
+* Budget-conscious customers
 
 ## Cluster 1 — High Income Heavy Spenders
 
-High store and catalog purchases
+* High store and catalog purchases
 
-High total spending
+* High total spending
 
-Fewer web visits
+* Fewer web visits
 
-Loyal premium customers
+* Loyal premium customers
 
 ## Cluster 2 — Low Spending Occasional Buyers
 
-Lowest spending group
+* Lowest spending group
 
-Lower purchases overall
+* Lower purchases overall
 
-High browsing but low buying
+* High browsing but low buying
 
 ## Cluster 3 — Premium Loyal Customers
 
-Very high spending
+* Very high spending
 
-High campaign response
+* High campaign response
 
-Strong purchasing frequency
+* Strong purchasing frequency
 
-Best target for retention campaigns
+* Best target for retention campaigns
 
 # Technologies Used
 
